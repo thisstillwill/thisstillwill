@@ -22,7 +22,6 @@ I put a lot of my school and personal projects on here, check 'em out!
 ![Git](https://img.shields.io/badge/-Git-f34f29?style=flat-square&logo=git&logoColor=white)
 
 ### Follow Me 👊
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/disstillwill)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamsvoboda/)
 [![Instagram](https://img.shields.io/badge/instagram-%23cd486b.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dis_still_will/)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dis_still_will)  
