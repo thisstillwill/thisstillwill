@@ -5,7 +5,7 @@ I'm a student at Princeton University majoring in Computer Science.
 I put a lot of my school and personal projects on here, check 'em out!
 
 ### About Me 👀
-- 🔭 Working on my personal website
+- 🔭 Working on my [personal website](will.cx)
 - 🌱 Learning Flask and SQLAlchemy  
 - 📫 Reach out: wsvoboda@princeton.edu 
 - ⚡ Fun fact: I use GitLab more 🤫
