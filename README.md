@@ -22,8 +22,8 @@ I put a lot of my school and personal projects on here, check 'em out!
 ![Git](https://img.shields.io/badge/-Git-f34f29?style=flat-square&logo=git&logoColor=white)
 
 ### Follow Me 👊
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamsvoboda/)
-[![Instagram](https://img.shields.io/badge/instagram-%23cd486b.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dis_still_will/)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dis_still_will)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamsvoboda/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/dis_still_will/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/william.svoboda.773)  
 
 ![Profile views](https://gpvc.arturio.dev/disstillwill) 
