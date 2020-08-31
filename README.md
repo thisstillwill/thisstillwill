@@ -8,7 +8,7 @@ I put a lot of my school and personal projects on here, check 'em out!
 - 🔭 Working on my [personal website](https://will.cx/)
 - 🌱 Learning Flask and SQLAlchemy  
 - 📫 Reach out: wsvoboda@princeton.edu 
-- ⚡ Fun fact: I use [GitLab more](https://gitlab.com/disstillwill) 🤫
+- ⚡ Fun fact: I use [GitLab](https://gitlab.com/disstillwill) more 🤫
 
 ### My Skills 💻
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
